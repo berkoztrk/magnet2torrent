@@ -1,0 +1,9 @@
+{
+  "name": "magnet2torrent",
+  "version": "0.0.0",
+  "description": "magnet2torrent",
+  "main": "app.js",
+  "author": {
+    "name": "Berk"
+  }
+}
