@@ -30,6 +30,7 @@
   <ItemGroup>
     <Compile Include="app.js" />
     <Compile Include="test\test.js" />
+    <Content Include="LICENSE.md" />
     <Content Include="package.json" />
     <Content Include="README.md" />
   </ItemGroup>

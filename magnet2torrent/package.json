@@ -1,13 +1,24 @@
 {
   "name": "magnetorrent",
   "version": "0.0.0",
-  "description": "magnetorrent",
+  "description": "download torrent files from magnet-links",
   "main": "app.js",
+  "license": "MIT",
   "author": {
     "name": "Berk Ozturk",
     "email": "berkozturkw@outlook.com"
   },
   "dependencies": {
     "magnet-uri": "^5.1.7"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/berkoztrk/magnet2torrent"
+  },
+  "keywords": [
+    "torrent",
+    "magnet",
+    "url",
+    "torrent file"
+  ]
 }
