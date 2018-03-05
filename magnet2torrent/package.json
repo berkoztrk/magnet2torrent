@@ -4,6 +4,10 @@
   "description": "magnet2torrent",
   "main": "app.js",
   "author": {
-    "name": "Berk"
+    "name": "Berk Ozturk",
+    "email": "berkozturkw@outlook.com"
+  },
+  "dependencies": {
+    "magnet-uri": "^5.1.7"
   }
 }
