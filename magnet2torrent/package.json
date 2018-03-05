@@ -1,7 +1,7 @@
 {
-  "name": "magnet2torrent",
+  "name": "magnetorrent",
   "version": "0.0.0",
-  "description": "magnet2torrent",
+  "description": "magnetorrent",
   "main": "app.js",
   "author": {
     "name": "Berk Ozturk",
